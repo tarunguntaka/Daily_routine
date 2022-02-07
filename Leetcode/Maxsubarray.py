@@ -15,3 +15,6 @@ def Maxsubarray(nums):
 nums = [1,2,-3,4,5,-6,5,4,3,-4]
 
 print(Maxsubarray(nums))
+
+
+# dynamic programming problems have these max and min functions in common 
